@@ -1,0 +1,19 @@
+td,
+th {
+    border: solid rgb(95, 145, 211);
+    padding: 6px;
+}
+
+.fila1 {
+    background-color: rgb(14, 56, 35);
+    color: rgb(184, 231, 215);
+}
+
+.fila2,
+.fila3 {
+    background-color: rgb(190, 212, 156)
+}
+
+.fila4 {
+    background-color: rgb(115, 133, 87)
+}
